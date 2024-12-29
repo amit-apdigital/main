@@ -1,0 +1,94 @@
+body {
+    font-family: "Mada", sans-serif;
+    background-size: 100%;
+}
+
+.logo {
+    background: url('/home/storage/images/logo2.png');
+    background-size: 100%;
+    background-repeat: no-repeat ;
+    
+
+}
+
+nav {
+    background-color: #000;
+}
+h1,
+h2
+{
+    font-weight: bold;
+}
+.lead {
+    font-weight: bold;        
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+.top-bar, .top-bar ul {
+    background-color: #000;
+}
+
+
+.top-bar ul a {
+    color: #ffffff;
+}
+
+/* Menu */
+
+.dropdown.menu.medium-horizontal>li.is-dropdown-submenu-parent>a::after
+{
+    border-color: #fff transparent transparent;
+}
+.drilldown a {
+    background-color:transparent;
+}
+
+.is-drilldown li.logo {
+    height: 100px;
+    width: 100px;
+}
+
+footer a {
+    color: #fff;
+}
+.callout {
+    border: none;
+    background: transparent;
+}
+
+.callout .button {
+    background-color: #000;
+}
+.shadow {
+    box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.25);
+} 
+.callout .button {
+    background-color: #000;
+}
+.recent-work h3 {
+
+    font-weight: bold;
+}
+.intro p {
+    font-size: 1.6rem;
+}
+.medium-4 h3 {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+}
+section {
+    background: url('/home/storage/images/hero_background.jpg') top center no-repeat;
+}
+footer {
+    background: #000;
+}
+footer .content {
+    min-height: 250px;
+}
+footer .copyright {
+    color: #fff;
+    padding: 7px 0;
+}
