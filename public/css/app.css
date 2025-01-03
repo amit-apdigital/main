@@ -9,6 +9,7 @@ body {
 
 .main-bar {
   background-color: #000000;
+  border: 1px solid #000;
 }
 .grid-container.fluid {
   padding: 0;
