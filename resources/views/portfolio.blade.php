@@ -19,8 +19,8 @@
         </div>
         <div class="grid-x">
             <div class="medium-auto cell">
-                <img class="thumbnail" src="/home/public/images/portfolio/client-1.png" alt=""><br />
-                <img class="thumbnail" src="/home/public/images/portfolio/client-1-1.png" alt="">
+                <img class="thumbnail" src="/images/portfolio/client-1.png" alt=""><br />
+                <img class="thumbnail" src="/images/portfolio/client-1-1.png" alt="">
             </div>
         </div>
 
