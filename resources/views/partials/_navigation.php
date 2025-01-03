@@ -1,15 +1,15 @@
 <li class="home">
-    <a class="changePage" data-link="/home/public/">Home</a>
+    <a class="changePage" data-link="/">Home</a>
 </li>
 <li class="about">
-    <a class="changePage" data-link="/home/public/about">About</a>
+    <a class="changePage" data-link="/about">About</a>
 </li>
 <li class="portfolio">
-    <a class="changePage" data-link="/home/public/portfolio">Portfolio</a>
+    <a class="changePage" data-link="/portfolio">Portfolio</a>
 </li>
 <li class="tutorials">
-    <a class="changePage" data-link="/home/public/tutorials">Tutorials</a>
+    <a class="changePage" data-link="//tutorials">Tutorials</a>
 </li>
 <li class="contact">
-    <a class="changePage" data-link="/home/public/contact">Contact</a>
+    <a class="changePage" data-link="/contact">Contact</a>
 </li>

@@ -1,10 +1,10 @@
 
 <li class="tutorials">
-    <a class="changePage" data-link="/home/public/tutorials">Tutorials</a>
+    <a class="changePage" data-link="/tutorials">Tutorials</a>
 </li>
 <li>
-    <a class="changePage" data-link="/home/public/privacy-policy">Privacy Policy</a>
+    <a class="changePage" data-link="/privacy-policy">Privacy Policy</a>
 </li>
 <li class="contact">
-    <a class="changePage" data-link="/home/public/contact">Contact</a>
+    <a class="changePage" data-link="/contact">Contact</a>
 </li>
