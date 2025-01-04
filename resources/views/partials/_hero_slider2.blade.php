@@ -3,7 +3,7 @@
 			<li>
 				<div>
 					<video loop muted autoplay preload="auto">
-						<source src="video/compressed.mp4" type="video/mp4">
+						<source src="video/compressed-1.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
 					<div class="darken"></div>
