@@ -14,11 +14,11 @@ return new class extends Migration
         Schema::create('videos', function (Blueprint $table) {
             $table->id();
             $table->string('youTubeId');
-            $table->string('title');
-            $table->string('description');
-            $table->string('tags');
-            $table->string('url');
-            $table->string('thumbnailURL');
+            $table->mediumText('title');
+            $table->longText('description');
+            $table->mediumText('tags');
+            $table->mediumText('url');
+            $table->mediumText('thumbnailURL');
             $table->timestamps();
         });
     }
