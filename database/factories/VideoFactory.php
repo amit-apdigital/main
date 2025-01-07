@@ -6,7 +6,6 @@ use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use Carbon\Carbon;
-use Faker\Factory as Faker;
 
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\video>
@@ -69,10 +68,10 @@ class VideoFactory extends Factory
         return [
             'youTubeId' => Str::random(5),
             'title' => Arr::random($videoTitles),            
-            'description' => $this->faker->realText($maxNbChars = 500, $indexSize = 2),   
+            'description' => 'This is a description field',   
             'tags' => Arr::random($videoTags),
-            'url' => $this->faker->url(),
-            'thumbnailURL' => $this->faker->url(),
+            'url' => 'http://wwww.google.com/',
+            'thumbnailURL' => 'http://wwww.google.com/',
                       
         ];
     }
