@@ -13,6 +13,12 @@ return new class extends Migration
     {
         Schema::create('videos', function (Blueprint $table) {
             $table->id();
+            $table->youTubeId();
+            $table->title();
+            $table->description();
+            $table->tags();
+            $table->url();
+            $table->thumbnailURL();
             $table->timestamps();
         });
     }
