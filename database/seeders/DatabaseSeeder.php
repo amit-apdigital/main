@@ -27,13 +27,13 @@ class DatabaseSeeder extends Seeder
         //     VideoSeeder::class,
         // ]);
 
-        Video::factory()->create([
-            'youTubeId' => "abcdef",
-            'title' => "This is a title",
-            'description' => 'This is a description field',
-            'tags' => "tag1, tag2",
-            'url' => 'http://wwww.google.com/',
-            'thumbnailURL' => 'http://wwww.google.com/',
-        ]);
+        // Video::factory()->create([
+        //     'youTubeId' => "abcdef",
+        //     'title' => "This is a title",
+        //     'description' => 'This is a description field',
+        //     'tags' => "tag1, tag2",
+        //     'url' => 'http://wwww.google.com/',
+        //     'thumbnailURL' => 'http://wwww.google.com/',
+        // ]);
     }
 }
