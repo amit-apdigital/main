@@ -10,6 +10,6 @@ class Video extends Model
     /** @use HasFactory<\Database\Factories\VideoFactory> */
     use HasFactory;
 
-    protected $fillable = ['youTubeId', 'title', 'description',  'description', 'tags', 'url', 'thumbnailURL'];
+    protected $fillable = ['youTubeId', 'title', 'description', 'duration', 'tags', 'url', 'thumbnailURL'];
 
 }

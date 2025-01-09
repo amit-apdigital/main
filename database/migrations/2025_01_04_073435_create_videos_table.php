@@ -16,6 +16,7 @@ return new class extends Migration
             $table->string('youTubeId');
             $table->mediumText('title');
             $table->longText('description');
+            $table->decimal('duration');
             $table->mediumText('tags');
             $table->mediumText('url');
             $table->mediumText('thumbnailURL');
