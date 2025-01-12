@@ -3,8 +3,8 @@
         <div class="grid-x">
             <div>
                 <ul class="social">
-                    <li><a href="https://www.youtube.com/@apdigitaltraining" class="social youtube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                    <li><a href="https://www.linkedin.com/company/apdigitalasia/" class="social linkedin-square" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.youtube.com/@apdigitaltraining" class="fa fa-youtube" target="_blank"></a></li>
+                    <li><a href="https://www.linkedin.com/company/apdigitalasia/" class="fa fa-linkedin" target="_blank"></a></li>
                     <li></li>
                     <li></li>
                     <li></li>
