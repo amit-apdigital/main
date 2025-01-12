@@ -288,6 +288,7 @@ ul.social {
   display: inline-block;
   margin-right: 20px;
   width: 100px;
+  height: 100px;
 }
 
 
@@ -296,11 +297,13 @@ ul.social {
   font-size: 2rem;
   color: #FFF;
   display: block;
+  height: 100px;
+  width: 100px;
   background-image: url('/images/set-of-social-media-icons-editable-vector-free-png.webp');
 }
 
 .youtube {
-
+  background-position :  168px 273px
 }
 .linked-in {
 
