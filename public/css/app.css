@@ -268,10 +268,9 @@ footer .content {
 
 footer .copyright {
   color: #fff;
-  padding: 1.7rem 1rem;
   
   font-weight: 900;
-  text-transform: uppercase;
+  list-style: none;
 }
 
 footer .menu li a {
@@ -303,6 +302,7 @@ footer ul.menu, footer ul.copyright {
 
 footer .copyright li {
   font-size: 1rem;
+  padding: 1rem;
 }
 
 /* content */
