@@ -91,7 +91,6 @@ h3 {
 .menu li a {
   padding: 1.7rem 1rem;
   font-size: 1.3rem;
-  text-transform: uppercase;
   font-size: 1.5rem;
   font-weight: 900;
 
@@ -275,6 +274,11 @@ footer .copyright {
   text-transform: uppercase;
 }
 
+footer .menu li a {
+  font-size: 1rem;
+  padding: 1rem;
+}
+
 ul.social {
   margin: 1rem;
   padding: 0;
@@ -291,7 +295,14 @@ ul.social {
   color: #FFF;
 }
 
+footer ul.menu, footer .copyright {
+  margin: 1rem;
+  padding: 0;
+}
 
+footer .copyright p {
+  font-size: 1rem;
+}
 
 /* content */
 
