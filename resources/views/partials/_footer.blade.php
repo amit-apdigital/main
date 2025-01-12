@@ -18,8 +18,10 @@
                     @include('partials._navigation_right')
                 </ul>
             </div>
-            <div class="copyright cell auto">
-                <p class="text-right">Copyright 2024</p>
+            <div class="cell auto">
+                <ul class="copyright">
+                <li class="text-right">Copyright 2024</li>
+                </ul>
             </div>
         </div>
     </div>

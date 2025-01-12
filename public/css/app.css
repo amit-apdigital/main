@@ -295,7 +295,7 @@ ul.social {
   color: #FFF;
 }
 
-footer ul.menu, footer .copyright {
+footer ul.menu, footer ul.copyright {
   margin: 1rem;
   padding: 0;
 }
