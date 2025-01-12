@@ -285,30 +285,27 @@ ul.social {
 }
 
 .social li {
-  display: inline;
+  display: inline-block;
   margin-right: 20px;
+  width: 100px;
 }
 
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  background: #000000;
-  color: white;  
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
 
 
 .social a {
   font-size: 2rem;
   color: #FFF;
+  display: block;
+  background-image: url('/images/set-of-social-media-icons-editable-vector-free-png.webp');
 }
+
+.youtube {
+
+}
+.linked-in {
+
+}
+
 
 footer ul.menu, footer ul.copyright {
   margin: 1rem;
