@@ -300,7 +300,8 @@ footer ul.menu, footer ul.copyright {
   padding: 0;
 }
 
-footer .copyright p {
+
+footer .copyright li {
   font-size: 1rem;
 }
 
