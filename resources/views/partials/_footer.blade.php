@@ -42,9 +42,7 @@
 <script>
     $(document).foundation();
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg-min.js" integrity="sha512-Gk+uNk8NWN235mIkS6B7/424TsDuPDaoAsUekJCKTWLKP6wlaPv+PBGfO7dbvZeibVPGW+mYidz0vL0XaWwz4w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="{{ asset('js/app.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js" integrity="sha512-2B4yJ2DGhmYITzY51PcSK5pxQilqi1Cl3wgI8dq8phWjbVAw9SmcaTZp+QsSCdV/xKkxttyYolU0usNNG1ICbQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="{{ asset('js/app.js') }}"></script>
 
 <script>
     function openScreen(panelName) {

@@ -20,7 +20,6 @@
     <link rel="preload" as="script" href="https://code.jquery.com/jquery-2.1.4.min.js">
     <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js">
     <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.js">
-    <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg-min.js">
     <link rel="preload" as="script" href="{{ asset('js/app.js') }}">
 </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css">

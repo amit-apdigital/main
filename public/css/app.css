@@ -295,7 +295,6 @@ ul.social {
 
 .social a {
   font-size: 2rem;
-  color: #FFF;
   display: block;
   height: 100px;
   width: 100px;
@@ -305,7 +304,8 @@ ul.social {
 .youtube {
   background-position :  168px 273px
 }
-.linked-in {
+.linkedin {
+  background-position :  532px 273px
 
 }
 
