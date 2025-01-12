@@ -287,8 +287,7 @@ ul.social {
 .social li {
   display: inline-block;
   margin-right: 20px;
-  width: 100px;
-  height: 100px;
+
 }
 
 
@@ -296,16 +295,16 @@ ul.social {
 .social a {
   font-size: 2rem;
   display: block;
-  height: 100px;
-  width: 100px;
+  height: 72px;
+  width: 72px;
   background-image: url('/images/set-of-social-media-icons-editable-vector-free-png.webp');
 }
 
 .youtube {
-  background-position :  168px 273px
+  background-position :  80px 273px;
 }
 .linkedin {
-  background-position :  532px 273px
+  background-position :  730px 102px;
 
 }
 
