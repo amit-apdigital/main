@@ -13,16 +13,10 @@
 
             <div class="cell">
                 <h3>Videos will go here.</h3>
-                <ul>
-                    <li>Clear Explanations: Break downs of complex concepts into easy-to-understand lessons, ensuring you grasp every topic thoroughly.</li>
-                    <li>Hands-On Learning: Dive into practical exercises and projects that reinforce your understanding and put theory into practice.</li>
-                    <li>Stay Updated: Keep pace with the rapidly evolving world of web development with regularly updated tutorials covering the latest tools and techniques.</li>
-                </ul>
 
-                </p>
-
-
-
+                @foreach ($videos as $video)
+                <div>Video</div>
+                @endforeach
 
             </div>
         </div>        
