@@ -17,7 +17,7 @@ class VideoController extends Controller
 //        $results = Video::latest()->filter(request(['tag', 'search']));
         
         return view('tutorials.videos', [
-            'videos' => $results->orderBy('sessionDate', 'asc')->paginate(12)
+            'videos' => $results
         ]);    }
 
     /**
