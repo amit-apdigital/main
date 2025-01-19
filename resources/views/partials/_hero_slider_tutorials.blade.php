@@ -14,7 +14,7 @@
 					<p>Server Setup and Configuration</p>
 					<p>coming soon</p>
 					<p>HTML & CSS: Master the building blocks of the web and create stunning layouts with HTML and CSS.</p>
-					<a href="https://videos.apdigital.asia/" target="_blank" class="cd-btn">..to the Video Directory</a>
+					<a href="/tutorials/videos" target="_blank" class="cd-btn">..to the Video Directory</a>
 					<a href="#articles" class="cd-btn articles">.. to the Articles</a>
 				</div>
 			</li>
