@@ -9,13 +9,12 @@
 
     <article class="grid-container">
 
-        <div class="grid-x grid-margin-x">
+        <div class="directory grid-x grid-margin-x">
 
             <div class="cell">
-                <h3>Videos will go here.</h3>
 
                 @foreach ($videos as $video)
-                <div>
+                <div class="listing">
                     <h3>{{$video->title}}</h3>
                     <p>{{$video->description}}</p>
                     <p>{{$video->duration}}</p>
