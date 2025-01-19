@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\StorevideoRequest;
 use App\Http\Requests\UpdatevideoRequest;
-use App\Models\Video;
+use App\Models\video;
 
 class VideoController extends Controller
 {
