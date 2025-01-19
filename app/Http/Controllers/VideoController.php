@@ -13,7 +13,7 @@ class VideoController extends Controller
      */
     public function index()
     {
-        $results = Video::latest();
+        $results = Video::all();
 //        $results = Video::latest()->filter(request(['tag', 'search']));
         
         return view('tutorials.videos', [
