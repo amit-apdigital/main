@@ -1,5 +1,5 @@
 <?php
-
+use App\Http\Controllers\VideoController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -16,9 +16,7 @@ Route::get('/privacy-policy', function () {
 })->name('privacy-policy');
 
 
-Route::get('/tutorials/videos', function () {
-    return view('tutorials.videos');
-})->name('tutorials-videos');
+Route::get('/tutorials/videos', [VideoController::class, 'index'])->name('tutorials-videos');
 
 Route::get('/logo', function () {
     return view('partials._logo');

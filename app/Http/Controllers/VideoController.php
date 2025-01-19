@@ -13,8 +13,12 @@ class VideoController extends Controller
      */
     public function index()
     {
-        //
-    }
+        $results = Video::latest();
+//        $results = Video::latest()->filter(request(['tag', 'search']));
+        
+        return view('tutorials.videos', [
+            'videos' => $results->orderBy('sessionDate', 'asc')->paginate(12)
+        ]);    }
 
     /**
      * Show the form for creating a new resource.

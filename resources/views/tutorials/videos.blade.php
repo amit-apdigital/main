@@ -2,8 +2,8 @@
 <section>
     <div class="callout large">
         <div class="row column text-center">
-            <h1>Videos</h1>
-            <p class="lead">Your Trusted Software Development Partner!</p>
+            <h1>Search Videos</h1>
+
         </div>
     </div>
 
@@ -12,7 +12,7 @@
         <div class="grid-x grid-margin-x">
 
             <div class="cell">
-                <h3>As an industry expert with many years of experience in web development.</h3>
+                <h3>Videos will go here.</h3>
                 <ul>
                     <li>Clear Explanations: Break downs of complex concepts into easy-to-understand lessons, ensuring you grasp every topic thoroughly.</li>
                     <li>Hands-On Learning: Dive into practical exercises and projects that reinforce your understanding and put theory into practice.</li>
@@ -22,23 +22,6 @@
                 </p>
 
 
-                <h3>Explore the Tutorials:</h3>
-                <ul>
-                    <li>HTML & CSS: Master the building blocks of the web and create stunning layouts with HTML and CSS.</li>
-                    <li>JavaScript: Unlock the power of interactivity and dynamic content with JavaScript, the language of the web.</li>
-                    <li>Frontend Frameworks: Dive deep into popular frontend frameworks like React, Vue.js, and Angular to build modern, responsive web applications.</li>
-                    <li>Backend Development: Learn server-side programming with technologies like Node.js, Express, and Django to create robust backend systems.</li>
-                    <li>Database Management: Discover the ins and outs of database management with SQL and NoSQL databases like MySQL, MongoDB, and Firebase.</li>
-                </ul>
-                
-                
-                
-                
-                
-                
-                <h3>Ready to Level Up Your Skills?</h3>
-                
-                <p>Start your journey today by exploring our tutorials and take your web development skills to new heights!</p>
 
 
             </div>
