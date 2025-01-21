@@ -88,10 +88,10 @@
                         </li>
                     </ul>
 
-                    <h1 class="product-filters-header hide-for-small-only">Products</h1>
+                    <h1 class="card-filters-header hide-for-small-only">Filters</h1>
                     <ul class="vertical menu hide-for-small-only" data-accordion-menu>
-                        <li class="product-filters-tab">
-                            <a href="#">Category</a>
+                        <li class="card-filters-tab">
+                            <a href="#">Tags</a>
                             <ul class="categories-menu menu vertical nested is-active">
                                 <a href="#" class="clear-all" id="category-clear-all">Clear All</a>
                                 <li><input id="category-checkbox1" type="checkbox"><label for="category-checkbox1">Category 1</label></li>
@@ -111,8 +111,8 @@
                                 <li><input id="category-checkbox15" type="checkbox"><label for="category-checkbox15">Category 15</label></li>
                             </ul>
                         </li>
-                        <li class="product-filters-tab">
-                            <a href="#">Size</a>
+                        <li class="card-filters-tab">
+                            <a href="#">Upload Date</a>
                             <ul class="categories-menu menu vertical nested is-active">
                                 <a href="#" class="clear-all" id="size-clear-all">Clear All</a>
                                 <li><input id="size-checkbox1" type="checkbox"><label for="size-checkbox1">Small</label></li>
@@ -122,8 +122,8 @@
                                 <li><input id="size-checkbox3" type="checkbox"><label for="size-checkbox3">XX-Large</label></li>
                             </ul>
                         </li>
-                        <li class="product-filters-tab">
-                            <a href="#">Color</a>
+                        <li class="card-filters-tab">
+                            <a href="#">Features</a>
                             <ul class="categories-menu menu vertical nested">
                                 <a href="#" class="clear-all" id="color-clear-all">Clear All</a>
                                 <li><input id="color-checkbox1" type="checkbox"><label for="color-checkbox1">All Color</label></li>
@@ -137,8 +137,8 @@
                                 <li><input id="color-checkbox8" type="checkbox"><label for="color-checkbox8">Multi-color</label></li>
                             </ul>
                         </li>
-                        <li class="product-filters-tab">
-                            <a href="#">Price</a>
+                        <li class="card-filters-tab">
+                            <a href="#">Duration</a>
                             <ul class="categories-menu menu vertical nested">
                                 <a href="#" class="clear-all" id="price-clear-all">Clear All</a>
                                 <li><input id="price-checkbox1" type="checkbox"><label for="price-checkbox1">Under $25</label></li>
