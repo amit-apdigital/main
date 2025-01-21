@@ -17,13 +17,13 @@
 
                 <div class="product-card">
                     <div class="product-card-thumbnail">
-                        <a href="{{$video->title}}"><img src="{{$video->title}}" /></a>
+                        <a href="{{$video->url}}"><img src="{{$video->thumbnailURL}}" /></a>
                     </div>
                     <h2 class="product-card-title"><a href="#">{{$video->title}}</a></h2>
                     <span class="product-card-desc">{{$video->description}}</span>
                     <span class="product-card-price">{{$video->duration}}</span>
                     <div class="product-card-colors">
-                        <button href="#" class="product-card-color-option">$video->tags</button>
+                        <button href="#" class="product-card-color-option">{{$video->tags}}</button>
                     </div>
                 </div>
 
