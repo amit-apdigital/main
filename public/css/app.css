@@ -1013,6 +1013,10 @@ svg cover layer
   margin-bottom: 0;
 }
 
+.product-card-title a, a:hover {
+  color: #000;
+}
+
 .product-card-desc {
   color: #8a8a8a;
   display: block;
