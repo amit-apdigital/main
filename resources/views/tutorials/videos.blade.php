@@ -1,15 +1,15 @@
 @include('partials._header')
 <section>
 
-<div class="grid-container">
-    <div class="grid-x grid-padding-x">
-      <div class="medium-6 cell">
-        <label>Search Videos
-          <input type="text" placeholder="Enter kekeyword...">
-        </label>
-      </div>
+    <div class="grid-container">
+        <div class="searchBar grid-x grid-padding-x">
+            <div class="cell">
+                <label>Search Videos
+                    <input type="text" placeholder="Enter kekeyword...">
+                </label>
+            </div>
+        </div>
     </div>
-  </div>
 
 
 
