@@ -14,16 +14,28 @@
             <div class="cell">
 
                 @foreach ($videos as $video)
-                <div class="listing">
-                    <h3>{{$video->title}}</h3>
-                    <p>{{$video->description}}</p>
-                    <p>{{$video->duration}}</p>
-                    <p>{{$video->tags}}</p>
+
+                <div class="product-card">
+                    <div class="product-card-thumbnail">
+                        <a href="{{$video->title}}"><img src="{{$video->title}}" /></a>
+                    </div>
+                    <h2 class="product-card-title"><a href="#">{{$video->title}}</a></h2>
+                    <span class="product-card-desc">{{$video->description}}</span>
+                    <span class="product-card-price">{{$video->duration}}</span>
+                    <div class="product-card-colors">
+                        <button href="#" class="product-card-color-option">$video->tags</button>
+                    </div>
                 </div>
+
+
+
+
+
+
                 @endforeach
 
             </div>
-        </div>        
+        </div>
 
     </article>
 </section>
