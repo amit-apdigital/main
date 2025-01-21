@@ -991,6 +991,9 @@ svg cover layer
   right: 0;
 }
 
+.directory .listing {
+  max-width: 25%;
+}
 
 .product-card {
   background-color: #fefefe;
@@ -1040,8 +1043,6 @@ svg cover layer
 
 .product-card-color-option {
   display: inline-block;
-  height: 25px;
-  width: 25px;
 }
 
 

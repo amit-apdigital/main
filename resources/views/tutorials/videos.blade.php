@@ -12,7 +12,7 @@
         <div class="directory grid-x grid-margin-x">
             @foreach ($videos as $video)
 
-            <div class="cell shrink">
+            <div class="listing cell shrink">
                 <div class="product-card">
                     <div class="product-card-thumbnail">
                         <a href="{{$video->url}}" target="_blank"><img src="https://img.youtube.com/vi/{{$video->youTubeId}}/0.jpg" /></a>
