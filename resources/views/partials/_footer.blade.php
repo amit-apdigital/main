@@ -20,7 +20,7 @@
             </div>
             <div class="cell auto">
                 <ul class="copyright">
-                <li class="text-right">Copyright 2024</li>
+                    <li class="text-right">Copyright 2024</li>
                 </ul>
             </div>
         </div>
@@ -42,7 +42,8 @@
 <script>
     $(document).foundation();
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js" integrity="sha512-2B4yJ2DGhmYITzY51PcSK5pxQilqi1Cl3wgI8dq8phWjbVAw9SmcaTZp+QsSCdV/xKkxttyYolU0usNNG1ICbQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="{{ asset('js/app.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.5.1/snap.svg.js" integrity="sha512-2B4yJ2DGhmYITzY51PcSK5pxQilqi1Cl3wgI8dq8phWjbVAw9SmcaTZp+QsSCdV/xKkxttyYolU0usNNG1ICbQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="{{ asset('js/app.js') }}"></script>
 
 <script>
     function openScreen(panelName) {
@@ -140,6 +141,25 @@
         jQuery(".cd-btn.developmentAndConsultancy ").on("click", function() {
             jQuery(".cd-slider-navigation li:nth-child(3) a").click();
         });
+
+        //More (Expand) or Less (Collapse)
+        jQuery('.categories-menu.menu.nested').each(function() {
+            var filterAmount = $(this).find('li').length;
+            if (filterAmount > 5) {
+                jQuery('li', this).eq(4).nextAll().hide().addClass('toggleable');
+                jQuery(this).append('<li class="more">More</li>');
+            }
+        });
+
+        jQuery('.categories-menu.menu.nested').on('click', '.more', function() {
+            if (jQuery(this).hasClass('less')) {
+                jQuery(this).text('More').removeClass('less');
+            } else {
+                jQuery(this).text('Less').addClass('less');
+            }
+            jQuery(this).siblings('li.toggleable').slideToggle();
+        });
+
 
 
 

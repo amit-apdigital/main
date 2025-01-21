@@ -995,19 +995,19 @@ svg cover layer
   max-width: 25%;
 }
 
-.product-card {
+.card {
   background-color: #fefefe;
   border: 1px solid #e6e6e6;
   padding: 1rem;
   margin-bottom: 1.5rem;
 }
 
-.product-card-thumbnail {
+.card-thumbnail {
   display: block;
   position: relative;
 }
 
-.product-card-title {
+.card-title {
   font-family: 'Open sans', sans-serif;
   font-size: 0.9rem;
   font-weight: 600;
@@ -1020,14 +1020,14 @@ svg cover layer
   color: #000;
 }
 
-.product-card-desc {
+.card-desc {
   color: #8a8a8a;
   display: block;
   font-family: 'Open sans', sans-serif;
   font-size: 0.85rem;
 }
 
-.product-card-price {
+.card-duration {
   color: #3e3e3e;
   display: inline-block;
   font-size: 0.85rem;
@@ -1036,13 +1036,71 @@ svg cover layer
 }
 
 
-.product-card-colors {
+.card-colors {
   display: block;
   margin-top: 0.8rem;
 }
 
-.product-card-color-option {
+.card-color-option {
   display: inline-block;
+}
+
+
+/* Filters */
+
+
+.product-filters {
+  padding: 0.5rem 1.5rem;
+  background-color: #fefefe;
+  margin-top: 2.5rem;
+}
+
+.product-filters label {
+  color: #8a8a8a;
+}
+
+.product-filters .menu.nested {
+  margin-left: 0rem;
+  margin-bottom: 0.9rem;
+}
+
+.product-filters .menu > li > a {
+  padding-left: 0;
+  color: #4a4a4a;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.product-filters .is-accordion-submenu-parent > a::after {
+  border-color: #cacaca transparent transparent;
+}
+
+.product-filters .clear-all {
+  font-size: 0.9rem;
+  color: #cacaca;
+}
+
+.product-filters .more {
+  color: #1779ba;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.product-filters-header {
+  font-size: 1.25rem;
+  padding-top: 0.5rem;
+}
+
+.product-filters-tab {
+  border-top: 1px solid #e6e6e6;
+}
+
+.product-filters-tab:last-child() {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.mobile-product-filters {
+  border-bottom: 1px solid #e6e6e6;
 }
 
 
