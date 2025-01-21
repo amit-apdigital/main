@@ -1,11 +1,16 @@
 @include('partials._header')
 <section>
-    <div class="callout large">
-        <div class="row column text-center">
-            <h1>Search Videos</h1>
 
-        </div>
+<div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="medium-6 cell">
+        <label>Search Videos
+          <input type="text" placeholder="Enter kekeyword...">
+        </label>
+      </div>
     </div>
+  </div>
+
 
 
 
