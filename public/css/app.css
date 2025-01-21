@@ -1,6 +1,6 @@
 body {
   font-family: "Abel", sans-serif;
-  background-size: 100%;  
+  background-size: 100%;
   display: flex;
   flex-direction: column;
   font-size: 1.5rem;
@@ -11,6 +11,7 @@ body {
   background-color: #000000;
   border: 1px solid #000;
 }
+
 .grid-container.fluid {
   padding: 0;
 }
@@ -27,10 +28,11 @@ a:hover {
   width: 60px;
   height: 60px;
   display: block;
-  margin: 1rem auto ;
+  margin: 1rem auto;
 
 
 }
+
 #siteSearch {
   border: none;
   background: #333;
@@ -78,17 +80,17 @@ h3 {
   background: rgb(0, 0, 0);
 }
 
-.menu {
+.top-bar .menu {
   margin: 1.6rem 0;
 }
 
-.menu-icon {
+.top-bar .menu-icon {
   width: 1.6rem;
   height: 1.6rem;
   margin: 1.6rem;
 }
 
-.menu li a {
+.top-bar .menu li a {
   padding: 1.7rem 1rem;
   font-size: 1.3rem;
   font-size: 1.5rem;
@@ -102,14 +104,14 @@ h3 {
   margin-right: 10px;
 }
 
-@media screen and (min-width: 40em){
+@media screen and (min-width: 40em) {
   header .menu li {
     min-width: 33%;
     text-align: center;
   }
 
 
-  
+
 }
 
 
@@ -125,7 +127,7 @@ h3 {
 #main-navigation .menu .selected>a {
   background: rgba(255, 255, 0255, 0.2);
 }
- 
+
 
 @media screen and (min-width: 40em) {
   .no-js .top-bar {
@@ -152,17 +154,18 @@ h3 {
   }
 }
 
-@media screen and (max-width: 40em){
+@media screen and (max-width: 40em) {
   .menu.right {
     display: none;
   }
+
   footer .menu {
     display: none;
   }
 
 
 
-  
+
 }
 
 .dropdown.menu.medium-horizontal>li.is-dropdown-submenu-parent>a::after {
@@ -179,7 +182,7 @@ button.button.search {
   border: none;
 
   font-size: 1.3rem;
-  background:#333;
+  background: #333;
 }
 
 .drilldown a {
@@ -268,7 +271,7 @@ footer .content {
 
 footer .copyright {
   color: #fff;
-  
+
   font-weight: 900;
   list-style: none;
 }
@@ -301,15 +304,17 @@ ul.social {
 }
 
 .youtube {
-  background-position :  80px 273px;
+  background-position: 80px 273px;
 }
+
 .linkedin {
-  background-position :  730px 102px;
+  background-position: 730px 102px;
 
 }
 
 
-footer ul.menu, footer ul.copyright {
+footer ul.menu,
+footer ul.copyright {
   margin: 1rem;
   padding: 0;
 }
@@ -668,8 +673,8 @@ Slider
 
 .cd-slider>li:nth-of-type(1) p,
 .cd-slider>li:nth-of-type(3) p {
-color : rgba(255, 255, 0255, 1);
-} 
+  color: rgba(255, 255, 0255, 1);
+}
 
 
 .cd-slider>li h2 {
@@ -781,6 +786,7 @@ Slider navigation
   display: inline-block;
   margin-right: 0px;
 }
+
 .cd-slider-navigation a:hover {
   background: #666;
 }
@@ -797,18 +803,19 @@ Slider navigation
   background-color: #333;
 
 }
+
 .cd-slider-navigation .selected a {
   background-color: #fff;
 }
 
 .cd-slider>li .cd-btn.selected {
-  background: rgba(255,215,0);
-  color: #000; 
+  background: rgba(255, 215, 0);
+  color: #000;
 }
 
 .cd-slider>li .cd-btn.selected:hover {
   background: rgba(0, 0, 0, 0.6);
-  color: #fff; 
+  color: #fff;
 }
 
 
@@ -1016,7 +1023,8 @@ svg cover layer
   margin-bottom: 0;
 }
 
-.product-card-title a, a:hover {
+.product-card-title a,
+a:hover {
   color: #000;
 }
 
@@ -1063,14 +1071,14 @@ svg cover layer
   margin-bottom: 0.9rem;
 }
 
-.card-filters .menu > li > a {
+.card-filters .menu>li>a {
   padding-left: 0;
   color: #4a4a4a;
   font-size: 0.85rem;
   font-weight: 600;
 }
 
-.card-filters .is-accordion-submenu-parent > a::after {
+.card-filters .is-accordion-submenu-parent>a::after {
   border-color: #cacaca transparent transparent;
 }
 
@@ -1101,5 +1109,3 @@ svg cover layer
 .mobile-card-filters {
   border-bottom: 1px solid #e6e6e6;
 }
-
-

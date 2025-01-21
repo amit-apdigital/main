@@ -4,7 +4,7 @@
     <div class="grid-container">
         <div class="searchBar grid-x grid-padding-x">
             <div class="cell">
-                <label>Search Videos
+                <label>
                     <input type="text" placeholder="Enter kekeyword...">
                 </label>
             </div>
@@ -92,7 +92,7 @@
                     <ul class="vertical menu hide-for-small-only" data-accordion-menu>
                         <li class="card-filters-tab">
                             <a href="#">Tags</a>
-                            <ul class="categories-menu menu vertical nested is-active">
+                            <ul class="categories-menu menu vertical nested ">
                                 <a href="#" class="clear-all" id="category-clear-all">Clear All</a>
                                 <li><input id="category-checkbox1" type="checkbox"><label for="category-checkbox1">Category 1</label></li>
                                 <li><input id="category-checkbox2" type="checkbox"><label for="category-checkbox2">Category 2</label></li>
