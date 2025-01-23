@@ -7,8 +7,9 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
-body.tutorials-videos {
+body.tutorials-videos section {
   background-color: #3e3e3e;
+  padding: 3vh;
 }
 
 .main-bar {
