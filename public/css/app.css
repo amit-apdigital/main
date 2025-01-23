@@ -98,6 +98,9 @@ h3 {
 
 }
 
+nav#main-navigation, .menu.right {
+  margin-top: 3vh;
+}
 
 .title-bar {
   justify-content: right;
