@@ -92,7 +92,7 @@
                     <ul class="vertical menu hide-for-small-only" data-accordion-menu>
                         <li class="card-filters-tab">
                             <a href="#">Tags</a>
-                            <ul class="categories-menu menu vertical nested ">
+                            <ul class="categories-menu menu vertical nested is-active">
                                 <a href="#" class="clear-all" id="category-clear-all">Clear All</a>
                                 <li><input id="category-checkbox1" type="checkbox"><label for="category-checkbox1">Category 1</label></li>
                                 <li><input id="category-checkbox2" type="checkbox"><label for="category-checkbox2">Category 2</label></li>
@@ -113,7 +113,7 @@
                         </li>
                         <li class="card-filters-tab">
                             <a href="#">Upload Date</a>
-                            <ul class="categories-menu menu vertical nested is-active">
+                            <ul class="categories-menu menu vertical nested ">
                                 <a href="#" class="clear-all" id="size-clear-all">Clear All</a>
                                 <li><input id="size-checkbox1" type="checkbox"><label for="size-checkbox1">Small</label></li>
                                 <li><input id="size-checkbox2" type="checkbox"><label for="size-checkbox2">Medium</label></li>
