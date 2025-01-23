@@ -7,6 +7,10 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
+body.tutorials-videos {
+  background-color: #3e3e3e;
+}
+
 .main-bar {
   background-color: #000000;
   border: 1px solid #000;
