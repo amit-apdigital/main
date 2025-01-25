@@ -1066,11 +1066,11 @@ a:hover {
 
 /* Filters */
 
-print, screen and (min-width: 40em) {
+@media print, screen and (min-width: 40em) {
   .leftColumn {
     width: 12vw;
   }
-  
+
   .rightColumn {
     width: 64vw;
   }
