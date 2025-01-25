@@ -1070,11 +1070,15 @@ a:hover {
 
   .directory .leftColumn {
     width: 12vw;
+    margin-bottom: 1vh;
   }
 
   .directory .rightColumn {
     width: 64vw;
   }  
+  .results .listing {
+    max-width: 15vw;
+}
 
 }
 
