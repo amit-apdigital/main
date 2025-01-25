@@ -1111,9 +1111,10 @@ a:hover {
   border-color: #cacaca transparent transparent;
 }
 
-.card-filters .clear-all {
+.directory .card-filters .clear-all {
   font-size: 0.9rem;
-  color: #cacaca;
+  color: #ccc;
+  background: none;
 }
 
 .card-filters .more {
