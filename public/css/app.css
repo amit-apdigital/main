@@ -1066,6 +1066,16 @@ a:hover {
 
 /* Filters */
 
+print, screen and (min-width: 40em) {
+  .leftColumn {
+    width: 12vw;
+  }
+  
+  .rightColumn {
+    width: 64vw;
+  }
+}
+
 
 .card-filters {
   padding: 0.5rem 1.5rem;
