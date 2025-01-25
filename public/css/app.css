@@ -1068,15 +1068,15 @@ a:hover {
 
 @media print, screen and (min-width: 40em) {
 
-  .leftColumn {
+  .directory .leftColumn {
     width: 12vw;
   }
 
-  .rightColumn {
+  .directory .rightColumn {
     width: 64vw;
   }  
 
-\}
+}
 
 
 
