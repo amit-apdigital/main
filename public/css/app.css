@@ -1023,11 +1023,9 @@ svg cover layer
 
 .card-title {
   font-family: 'Open sans', sans-serif;
-  font-size: 0.9rem;
-  font-weight: 600;
-  line-height: 1.45rem;
+  font-size: 1.3rem;
   margin-top: 1rem;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
 }
 
 .card-title a,
@@ -1039,7 +1037,7 @@ a:hover {
   color: #8a8a8a;
   display: block;
   font-family: 'Open sans', sans-serif;
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 
 .card-duration {
@@ -1092,7 +1090,8 @@ a:hover {
 }
 
 .card-filters label {
-  color: #8a8a8a;
+  color: #999;
+  font-size: 1rem;
 }
 
 .card-filters .menu.nested {
@@ -1113,8 +1112,9 @@ a:hover {
 
 .directory .card-filters .clear-all {
   font-size: 0.9rem;
-  color: #ccc;
+  color: #999;
   background: none;
+  font-size: 1rem;
 }
 
 .card-filters .more {
