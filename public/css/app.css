@@ -1067,14 +1067,18 @@ a:hover {
 /* Filters */
 
 @media print, screen and (min-width: 40em) {
+
   .leftColumn {
     width: 12vw;
   }
 
   .rightColumn {
     width: 64vw;
-  }
-}
+  }  
+
+\}
+
+
 
 
 .card-filters {
