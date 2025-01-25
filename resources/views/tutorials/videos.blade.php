@@ -17,7 +17,7 @@
     <article class="grid-container">
         <div class="directory grid-x grid-margin-x">
 
-            <div class="leftColumn cell shrink">
+            <div class="leftColumn cell small-auto">
                 <div class="card-filters">
                     <ul class="mobile-card-filters vertical menu show-for-small-only" data-accordion-menu>
                         <li>
@@ -153,11 +153,11 @@
 
             </div>
 
-            <div class="rightColumn cell auto">
+            <div class="rightColumn cell small-auto">
                 <div class="results grid-x grid-margin-x">
                     @foreach ($videos as $video)
 
-                    <div class="listing cell shrink">
+                    <div class="listing cell small-auto">
                         <div class="card">
                             <div class="card-thumbnail">
                                 <a href="{{$video->url}}" target="_blank"><img src="https://img.youtube.com/vi/{{$video->youTubeId}}/0.jpg" /></a>
