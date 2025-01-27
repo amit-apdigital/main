@@ -11,7 +11,7 @@
                 </ul>
             </div>
         </div>
-        <div class="grid-x">
+        <div class="grid-x links">
             <div class="cell auto">
                 <ul class="menu">
                     @include('partials._navigation_left')

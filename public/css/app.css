@@ -12,10 +12,6 @@ body.tutorials-videos section {
   padding: 3vh 0;
 }
 
-.main-bar {
-  background-color: #030a10;
-  border: 1px solid #000;
-}
 
 .grid-container.fluid {
   padding: 0;
@@ -346,6 +342,9 @@ footer .copyright li {
   padding: 1rem;
 }
 
+footer .links {
+  border-top: 1px solid #06111b ;
+}
 /* content */
 
 .hide-text {
@@ -787,7 +786,7 @@ Slider navigation
   width: 100%;
   line-height: 1.7em;
   margin: 0;
-  background: #000;
+
 }
 
 .cd-slider h2 {
