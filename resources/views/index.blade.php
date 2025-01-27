@@ -3,8 +3,8 @@
 
     @include('partials._hero_slider_home')
 
-    <article class="grid-container fluid ">
-        <div class="grid-x">
+    <article class="grid-container">
+        <div class="grid-x grid-margin-x grid-margin-y">
             <div class="cell small-6">
                 <h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
                 <p>Design, develop, and implement end to end custom IT business solutions.</p>
@@ -16,7 +16,7 @@
 
             </div>
         </div>
-        <div class="grid-x">
+        <div class="grid-x grid-margin-x grid-margin-y">
             <div class="cell small-6">
                 <h2>TIGHT BUDGET?<br />NO WORRIES!</h2>
                 <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
