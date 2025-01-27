@@ -2,7 +2,7 @@
 		<ul class="cd-slider">
 			<li>
 				<div>
-					<video loop muted autoplay preload="auto">
+					<video loop muted autoplay>
 						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
@@ -21,7 +21,7 @@
 				
 			<li class="visible">
 				<div>
-					<video loop muted autoplay preload="auto">
+					<video loop muted autoplay>
 						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
@@ -39,7 +39,7 @@
 
 			<li>
 				<div>
-					<video loop muted autoplay preload="auto">
+					<video loop muted autoplay>
 						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
