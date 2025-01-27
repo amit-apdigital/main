@@ -4,7 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   font-size: 1.5rem;
-  background-color: rgb(0, 0, 0);
+  background-color: 030a10;
 }
 
 body.tutorials-videos section {
@@ -13,7 +13,7 @@ body.tutorials-videos section {
 }
 
 .main-bar {
-  background-color: #000000;
+  background-color: 030a10;
   border: 1px solid #000;
 }
 
