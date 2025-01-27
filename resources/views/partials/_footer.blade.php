@@ -1,6 +1,6 @@
 <footer>
     <div class="grid-container fluid">
-        <div class="grid-x">
+        <div class="grid-xsocial">
             <div>
                 <ul class="social">
                     <li><a href="https://www.youtube.com/@apdigitalasia" class="youtube" target="_blank"></a></li>
