@@ -17,31 +17,11 @@
 
 				</div>
 			</li>
-
-			<li>
-				<div>
-					<video loop muted autoplay preload="auto">
-						<source src="video/compressed-new.mp4" type="video/mp4">
-						 Your browser does not support the video tag.
-					</video>
-					<div class="darken"></div>
-					<div class="texture"></div>
-					<h2>TIGHT BUDGET?<br />NO WORRIES!</h2>
-					<p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
-					<p>Let us work together  and take your business to new heights.</p>
-					<a class="cd-btn devapp">Development Services</a>
-					<a class="cd-btn learn">100% Free learning</a>
-					<a class="cd-btn consult selected">Lets start customizing</a>
-
-				</div>
-			</li>
-
 		</ul> 
 		
 		<!-- .cd-slider -->
 		<ol class="cd-slider-navigation">
 			<li class="selected"><a href="#0"><em>Upskill</em></a></li>
-			<li><a href="#0"><em>Affordable Builds</em></a></li>
 		</ol> 
 		<!-- .cd-slider-navigation -->
 		
