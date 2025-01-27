@@ -132,7 +132,7 @@ nav#main-navigation,
 
 
 #main-navigation .menu .selected>a {
-  background: rgba(255, 255, 0255, 0.2);
+  background: #06111b;
 }
 
 
@@ -786,7 +786,7 @@ Slider navigation
   width: 100%;
   line-height: 1.7em;
   margin: 0;
-  background: #06111b;
+  background: #030a10;
 
 }
 
