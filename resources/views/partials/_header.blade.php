@@ -21,6 +21,9 @@
     <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js">
     <link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.js">
     <link rel="preload" as="script" href="{{ asset('js/app.js') }}">
+    <link rel="preload" as="media" href="/video/compressed-new.mp4">
+
+    
 </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.css">
