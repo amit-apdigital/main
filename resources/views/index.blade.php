@@ -13,7 +13,6 @@
                 <a class="cd-btn devapp selected">Let's get started</a>
                 <a class="cd-btn learn">100% Free learning</a>
                 <a class="cd-btn consult">Consultancy Services</a>
-
             </div>
         </div>
     </article>
