@@ -810,7 +810,7 @@ Slider navigation
   display: block;
   position: relative;
   height: 10px;
-  width: calc(33vw - 6px);
+  width: 100%;
   background-color: #333;
 
 }

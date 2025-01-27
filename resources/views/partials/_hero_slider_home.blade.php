@@ -2,7 +2,7 @@
 		<ul class="cd-slider">
 			<li class="visible">
 				<div>
-					<video loop muted autoplay preload="auto">
+					<video loop muted autoplay preload="auto" poster="/images/hero_background.jpg">
 						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
