@@ -13,6 +13,15 @@
                 <a class="cd-btn learn">100% Free learning</a>
                 <a class="cd-btn consult">Consultancy Services</a>
             </div>
+            <div class="cell">
+                <h2>TIGHT BUDGET?<br />NO WORRIES!</h2>
+                <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
+                <p>Let us work together and take your business to new heights.</p>
+                <a class="cd-btn devapp">Development Services</a>
+                <a class="cd-btn learn">100% Free learning</a>
+                <a class="cd-btn consult selected">Lets start customizing</a>
+
+            </div>
 
         </div>
     </article>
