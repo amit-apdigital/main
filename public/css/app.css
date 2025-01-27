@@ -562,7 +562,7 @@ Slider
   height: calc(100vh - 100px);
   /* hide horizontal scrollbar on IE11 */
   overflow: hidden;
-  background: url('images/hero_background.jpg') no-repeat top center;
+  background: url('/images/hero_background.jpg') no-repeat top center;
 }
 
 .cd-slider-wrapper .cd-slider,
