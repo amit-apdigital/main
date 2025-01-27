@@ -1,24 +1,5 @@
 <section class="cd-slider-wrapper">
 		<ul class="cd-slider">
-			<li>
-				<div>
-					<video loop muted autoplay preload="auto">
-						<source src="video/compressed-new.mp4" type="video/mp4">
-						 Your browser does not support the video tag.
-					</video>
-					<div class="darken"></div>
-					<div class="texture"></div>
-					<h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
-					<p>Design, develop, and implement end to end custom IT business solutions.</p>
-					<p>We offer affordable, straightforward solutions for your business in its early stages.</p>
-
-					<a class="cd-btn devapp selected">Let's get started</a>
-					<a class="cd-btn learn">100% Free learning</a>
-					<a class="cd-btn consult">Consultancy Services</a>
-
-				</div>
-			</li>
-				
 			<li class="visible">
 				<div>
 					<video loop muted autoplay preload="auto">
@@ -59,7 +40,6 @@
 		
 		<!-- .cd-slider -->
 		<ol class="cd-slider-navigation">
-			<li><a href="#0"><em>Complete Solutions</em></a></li>
 			<li class="selected"><a href="#0"><em>Upskill</em></a></li>
 			<li><a href="#0"><em>Affordable Builds</em></a></li>
 		</ol> 
