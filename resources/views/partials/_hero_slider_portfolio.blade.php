@@ -3,7 +3,7 @@
 			<li>
 				<div>
 					<video loop muted autoplay preload="auto">
-						<source src="video/compressed-1.mp4" type="video/mp4">
+						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
 					<div class="darken"></div>
@@ -20,7 +20,7 @@
 			<li class="visible">
 				<div>
 					<video loop muted autoplay preload="auto">
-						<source src="video/compressed-2.mp4" type="video/mp4">
+						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
 					<div class="darken"></div>
@@ -35,7 +35,7 @@
 			<li>
 				<div>
 					<video loop muted autoplay preload="auto">
-						<source src="video/compressed-3.mp4" type="video/mp4">
+						<source src="video/compressed-new.mp4" type="video/mp4">
 						 Your browser does not support the video tag.
 					</video>
 					<div class="darken"></div>
