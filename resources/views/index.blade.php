@@ -22,7 +22,7 @@
         <div class="grid-container">
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6-auto">
-                    <h2>TIGHT BUDGET?<br />NO WORRIES!</h2>
+                    <h2>TIGHT BUDGET? NO WORRIES!</h2>
                     <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
                     <p>We can  work together with you  and take your business software needs to new heights.</p>
                 </div>
