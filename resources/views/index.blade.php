@@ -8,7 +8,7 @@
 
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6">
-                    <a class="cd-btn consult">Consultancy Services</a>
+                    <a class="cd-btn consult"><img src="/images/consultancy.jpg" /></a>
                 </div>
                 <div class="cell small-6">
                     <h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
