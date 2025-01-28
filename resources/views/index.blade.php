@@ -8,7 +8,7 @@
 
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6-auto">
-                    <a id="consultancy" class="cd-btn consult"><img src="/images/consultancy.jpg" title="Consultancy" /></a>
+                    <a data-link="/portfolio" id="consultancy" class="cd-btn consult changePage"><img src="/images/consultancy.jpg" title="Consultancy" /></a>
                 </div>
                 <div class="cell small-6-auto">
                     <h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
@@ -28,7 +28,7 @@
                     <p>We can  work together with you  and take your business software needs to new heights.</p>
                 </div>
                 <div class="cell small-6-auto">
-                    <a class="cd-btn devapp"><img src="/images/development.jpg" title="Development" /></a>
+                    <a data-link="/portfolio" class="cd-btn devapp changePage"><img src="/images/development.jpg" title="Development" /></a>
 
                 </div>
             </div>
