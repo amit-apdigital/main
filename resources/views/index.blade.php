@@ -8,7 +8,7 @@
 
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6-auto">
-                    <a class="cd-btn consult"><img src="/images/consultancy.jpg" title="Consultancy" /></a>
+                    <a id="consultancy" class="cd-btn consult"><img src="/images/consultancy.jpg" title="Consultancy" /></a>
                 </div>
                 <div class="cell small-6-auto">
                     <h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
@@ -22,6 +22,7 @@
         <div class="grid-container">
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6-auto">
+                    <a id="development"></a>
                     <h2>TIGHT BUDGET? NO WORRIES!</h2>
                     <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
                     <p>We can  work together with you  and take your business software needs to new heights.</p>

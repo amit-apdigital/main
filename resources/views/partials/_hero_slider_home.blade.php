@@ -11,9 +11,9 @@
 					<h2>LEARN NEW SKILLS</h2>
 					<p>Gain access to a wealth of resources, tutorials, and expert guidance at no cost.</p>
 					<p>We believe in making high-quality education and support to be accessible to everyone</p>
-					<a class="cd-btn devapp">Development Services</a>
-					<a data-link="/tutorials" class="cd-btn learn selected changePage">Let's launch into learning!</a>
-					<a class="cd-btn consult">Consultancy Services</a>
+					<a data-link="/tutorials" class="cd-btn learn">Let's launch into learning!</a>
+					<a href="#consultancy" class="cd-btn consult">Consultancy Services</a>
+					<a href="#development" class="cd-btn devapp">Development Services</a>
 
 				</div>
 			</li>
