@@ -250,6 +250,9 @@ article.consultancy {
   background:  #46b0b0;
   color:#06111b;
 }
+.consult {
+  background: url('/images/consultancy.jpg') no-repeat center center;
+}
 
 article.development {
   background: #06111b;

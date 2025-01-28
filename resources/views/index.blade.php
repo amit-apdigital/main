@@ -12,8 +12,8 @@
                 </div>
                 <div class="cell small-6">
                     <h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
-                    <p>Design, develop, and implement end to end custom IT business solutions.</p>
-                    <p>We offer affordable, straightforward solutions for your business in its early stages.</p>
+                    <p>We can design, develop, and implement end to end custom IT business solutions to improve business performance and reduce overheads, increasing that all important profit margin.</p>
+                    <p>We offer affordable, straightforward solutions for your business whether its its early stages or already well established. </p>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
                 <div class="cell small-6">
                     <h2>TIGHT BUDGET?<br />NO WORRIES!</h2>
                     <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
-                    <p>Let us work together and take your business to new heights.</p>
+                    <p>We can  work together with you  and take your business software needs to new heights.</p>
                 </div>
                 <div class="cell small-6">
                     <a class="cd-btn devapp">Development Services</a>
