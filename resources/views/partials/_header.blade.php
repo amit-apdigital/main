@@ -40,6 +40,24 @@
 <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 <link rel="stylesheet" href="{{ asset('css/foundation-icons.css') }}">
 <style>
+
+.panel {
+  background: rgba(0, 0, 0, 1.0);
+  width: 50vw;
+  height: 100vh;
+  position: fixed;
+
+}
+
+.panel-1 {
+  left: 0;
+}
+
+.panel-2 {
+  right: 0;
+}
+
+
 </style>
 
 </head>
