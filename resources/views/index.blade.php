@@ -8,7 +8,7 @@
 
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6">
-                    <a class="cd-btn consult"><img src="/images/consultancy.jpg" /></a>
+                    <a class="cd-btn consult"><img src="/images/consultancy.jpg" title="Consultancy" /></a>
                 </div>
                 <div class="cell small-6">
                     <h2>LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
@@ -27,7 +27,7 @@
                     <p>We can  work together with you  and take your business software needs to new heights.</p>
                 </div>
                 <div class="cell small-6">
-                    <a class="cd-btn devapp">Development Services</a>
+                    <a class="cd-btn devapp"><img src="/images/development.jpg" title="Development" /></a>
 
                 </div>
             </div>

@@ -258,7 +258,9 @@ article.development {
   background: #06111b;
   color: #46b0b0;
 }
-
+.development .develop img {
+  
+}
 .white-bg {
   background: #fff;
 }
