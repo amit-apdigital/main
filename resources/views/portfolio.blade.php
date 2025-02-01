@@ -3,7 +3,7 @@
 
     @include('partials._hero_slider_portfolio')
 
-    <article class="grid-container fluid white-bg">
+    <article class="grid-container white-bg">
         <div class="ecommerce-product-slider orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
             <ul class="orbit-container">
                 <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
