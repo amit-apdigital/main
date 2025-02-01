@@ -13,7 +13,7 @@
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="dimpleradia" href="#"><img src="/images/portfolio/client-1.png" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -22,7 +22,7 @@
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1-1.png" /></a>
+                                    <a data-open="dimpleradia" href="#"><img src="/images/portfolio/client-1-1.png" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -31,7 +31,7 @@
                         <div class="cell hide-for-small-only">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="dimpleradia" href="#"><img src="/images/portfolio/client-1.png" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
                             </div>
@@ -39,7 +39,7 @@
                         <div class="cell show-for-large">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="dimpleradia" href="#"><img src="/images/portfolio/client-1.png" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -48,7 +48,7 @@
                         <div class="cell show-for-large">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="dimpleradia" href="#"><img src="/images/portfolio/client-1.png" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -61,7 +61,7 @@
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="conferenceWebsite"  href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -70,7 +70,7 @@
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -79,7 +79,7 @@
                         <div class="cell hide-for-small-only">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -88,7 +88,7 @@
                         <div class="cell show-for-large">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -97,7 +97,7 @@
                         <div class="cell show-for-large">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
