@@ -22,7 +22,7 @@
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a href="#"><img src="/images/portfolio/client-1.png" /></a>
+                                    <a href="#"><img src="/images/portfolio/client-1-1.png" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
