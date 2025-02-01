@@ -1236,3 +1236,7 @@ screen and (min-width: 40em) {
 .orbit-previous {
   left: -15px;
 }
+
+.orbit-bullets button {
+  background-color: #000;
+}
