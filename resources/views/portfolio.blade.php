@@ -8,6 +8,8 @@
             <ul class="orbit-container">
                 <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+                <!-- Dimple Radia -->
+
                 <li class="is-active orbit-slide">
                     <div class="grid-x small-up-2 medium-up-4 large-up-5 align-center">
                         <div class="cell">
@@ -56,12 +58,17 @@
                         </div>
                     </div>
                 </li>
+
+                <!-- Dimple Radia -->
+
+                <!-- Conference Website -->
+
                 <li class="is-active orbit-slide">
                     <div class="grid-x small-up-2 medium-up-4 large-up-5 align-center">
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a data-open="conferenceWebsite"  href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -70,7 +77,7 @@
                         <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -79,7 +86,7 @@
                         <div class="cell hide-for-small-only">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -88,7 +95,7 @@
                         <div class="cell show-for-large">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -97,7 +104,7 @@
                         <div class="cell show-for-large">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
-                                    <a data-open="conferenceWebsite" href="#"><img src="/images/portfolio/placeholder-image.jpg" /></a>
+                                    <a data-open="conferenceWebsite" href="#"><img src="/images/placeholder-image.jpg" /></a>
                                 </div>
                                 <h2 class="product-card-title"><a href="#">Product Name</a></h2>
 
@@ -105,6 +112,9 @@
                         </div>
                     </div>
                 </li>
+
+                <!-- Conference Website -->
+
             </ul>
             <nav class="orbit-bullets">
                 <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
@@ -154,8 +164,8 @@
     </div>
     <div class="grid-x">
         <div class="medium-auto cell">
-            <img class="thumbnail" src="" alt=""><br />
-            <img class="thumbnail" src="" alt="">
+            <img class="thumbnail" src="/images/placeholder-image.jpg" alt=""><br />
+            <img class="thumbnail" src="/images/placeholder-image.jpg" alt="">
         </div>
     </div>
 
