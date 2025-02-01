@@ -1,21 +1,6 @@
 <section class="cd-slider-wrapper">
 		<ul class="cd-slider">
-			<li>
-				<div>
-					<video loop muted autoplay>
-						<source src="video/compressed-new.mp4" type="video/mp4">
-						 Your browser does not support the video tag.
-					</video>
-					<div class="darken"></div>
-					<div class="texture"></div>
-					<h2>Web and Applications</h2>
-					<p>A commitment to excellence, creativity, and client satisfaction.</p>
-					<p>In the fast-paced world of technology, staying ahead requires more than just keeping up.</p>
-					<p>it demands a proactive approach to innovation. Passionate about pushing boundaries, constantly seeking new ways to enhance your digital presence and elevate your business to new heights.</p>
-					<p><a class="cd-btn" data-toggle="dimpleradia">Dimple Radia</a> <a class="cd-btn" data-toggle="conferenceWebsite">Conference website </a></p>
 
-				</div>
-			</li>
 				
 			<li class="visible">
 				<div>
@@ -32,27 +17,13 @@
 				</div>
 			</li>
 
-			<li>
-				<div>
-					<video loop muted autoplay>
-						<source src="video/compressed-new.mp4" type="video/mp4">
-						 Your browser does not support the video tag.
-					</video>
-					<div class="darken"></div>
-					<div class="texture"></div>
-					<h2>Infrastructure</h2>
-					<p>Every business needs technology to ensure it can operate succesfully, if you are Unsure of what systems and services needs to depend on to flourish, we can help you research the market of the latest providers that offer competitive services at compettive prices.</p>
-					<p>With new providers emerging we can advise on you changes you should consider regularly to ensure your investments on infrastructure are helping your business so you remain with competitive in your market.</p>
-				</div>
-			</li>
+
 
 		</ul> 
 		
 		<!-- .cd-slider -->
 		<ol class="cd-slider-navigation">
-			<li><a href="#0"><em>Web and Applications</em></a></li>
 			<li class="selected"><a href="#0"><em>Portfolio</em></a></li>
-			<li><a href="#0"><em>Infrastructure</em></a></li>
 		</ol> 
 		<!-- .cd-slider-navigation -->
 		
