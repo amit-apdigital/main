@@ -1230,3 +1230,9 @@ screen and (min-width: 40em) {
   width: 25px;
 }
 
+.orbit-next {
+  right: -15px;
+}
+.orbit-previous {
+  left: -15px;
+}
