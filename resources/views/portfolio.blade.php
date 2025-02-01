@@ -10,7 +10,7 @@
                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
                 <li class="is-active orbit-slide">
                     <div class="grid-x small-up-2 medium-up-4 large-up-5 align-center">
-                        <div class="column">
+                        <div class="cell">
                             <div class="product-card">
                                 <div class="product-card-thumbnail">
                                     <a href="#"><img src="/images/portfolio/client-1.png" /></a>
