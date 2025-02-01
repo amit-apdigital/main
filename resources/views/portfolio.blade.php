@@ -9,7 +9,7 @@
     <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
     <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
     <li class="is-active orbit-slide">
-      <div class="row small-up-2 medium-up-4 large-up-5 align-center">
+      <div class="grid-x small-up-2 medium-up-4 large-up-5 align-center">
         <div class="column">
           <div class="product-card">
             <div class="product-card-thumbnail">
@@ -26,7 +26,7 @@
             </div>
           </div>
         </div>
-        <div class="column">
+        <div class="cell">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -42,7 +42,7 @@
             </div>
           </div>
         </div>
-        <div class="column hide-for-small-only">
+        <div class="cell hide-for-small-only">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -58,7 +58,7 @@
             </div>
           </div>
         </div>
-        <div class="column show-for-large">
+        <div class="cell show-for-large">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -74,7 +74,7 @@
             </div>
           </div>
         </div>
-        <div class="column show-for-large">
+        <div class="cell show-for-large">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -93,8 +93,8 @@
       </div>
     </li>
     <li class="is-active orbit-slide">
-      <div class="row small-up-2 medium-up-4 large-up-5 align-center">
-        <div class="column">
+      <div class="grid-x small-up-2 medium-up-4 large-up-5 align-center">
+        <div class="cell">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -110,7 +110,7 @@
             </div>
           </div>
         </div>
-        <div class="column">
+        <div class="cell">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -126,7 +126,7 @@
             </div>
           </div>
         </div>
-        <div class="column hide-for-small-only">
+        <div class="cell hide-for-small-only">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -142,7 +142,7 @@
             </div>
           </div>
         </div>
-        <div class="column show-for-large">
+        <div class="cell show-for-large">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
@@ -158,7 +158,7 @@
             </div>
           </div>
         </div>
-        <div class="column show-for-large">
+        <div class="cell show-for-large">
           <div class="product-card">
             <div class="product-card-thumbnail">
               <a href="#"><img src="https://placehold.it/180x180"/></a>
