@@ -9,9 +9,9 @@
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6-auto">
                     <a data-link="/portfolio" id="consultancy" class="cd-btn consult changePage"><img src="/images/consultancy.jpg" title="Consultancy" /></a>
+                    <h2 style="position: relative;top: -120px;background: rgba(255, 255, 255, 0.25);display: inline;padding: 1rem;">LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
                 </div>
                 <div class="cell small-6-auto">
-                    <h2 style="position: relative;top: -120px;background: rgba(255, 255, 255, 0.25);display: inline;padding: 1rem;">LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
                     <p>We can design, develop, and implement end to end custom IT business solutions to improve business performance and reduce overheads, increasing that all important profit margin.</p>
                     <p>We offer affordable, straightforward solutions for your business whether its its early stages or already well established. </p>
                 </div>
