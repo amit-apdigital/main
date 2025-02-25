@@ -6,7 +6,7 @@ Route::get('/', function () {
     return view('index');
 })->name('home');
 
-Route::get('/wecome', function () {
+Route::get('/welcome', function () {
     return view('welcome');
 })->name('welcome');
 
