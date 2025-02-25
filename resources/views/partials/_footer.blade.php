@@ -16,6 +16,12 @@
                 <ul class="menu">
                     @include('partials._navigation_left')
                     @include('partials._navigation_right')
+                    <li>
+                        <a class="changePage" data-link="/privacy-policy">Privacy Policy</a>
+                    </li>
+                    <li class="contact">
+                        <a class="changePage" data-link="/contact">Contact</a>
+                    </li>
                 </ul>
             </div>
             <div class="cell auto">
