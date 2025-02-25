@@ -3,13 +3,11 @@
 </li>
 
 <!-- @if (Route::has('login')) -->
-<li>
     <!-- @auth
     @else -->
 <li class="login">
     <a class="changePage" data-link="/login">Log in</a>
     <!-- <a class="changePage" data-link="/login" href="{{ route('login') }}" class="">Log in</a> -->
-
 </li>
 
 <!-- @if (Route::has('register')) -->
