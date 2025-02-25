@@ -1,6 +1,8 @@
 <?php
 use App\Http\Controllers\VideoController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
+
 
 Route::get('/', function () {
     return view('index');
