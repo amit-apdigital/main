@@ -60,7 +60,6 @@
             width: "-=50vw",
             opacity: 0
         }, 750, function() {
-            console.log(cssClassName);
             jQuery(cssClassName).parent().css("height", "0");
         });
 
@@ -73,7 +72,6 @@
             width: "+=50vw",
             opacity: 1
         }, 750, function() {
-            console.log(cssClassName);
             window.location.href = url; //relative to domain
         });
 
