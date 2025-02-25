@@ -13,6 +13,10 @@ Route::get('/welcome', function () {
 })->name('welcome');
 
 
+Route::get('/register', function () {
+    return view('register');
+})->name('register');
+
 
 Route::get('/tutorials', function () {
     return view('tutorials');
