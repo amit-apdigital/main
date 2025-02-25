@@ -6,6 +6,11 @@ Route::get('/', function () {
     return view('index');
 })->name('home');
 
+Route::get('/wecome', function () {
+    return view('welcome');
+})->name('welcome');
+
+
 
 Route::get('/tutorials', function () {
     return view('tutorials');
