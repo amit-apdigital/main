@@ -5,8 +5,8 @@
                 <ul class="social">
                     <li><a href="https://www.youtube.com/@apdigitalasia" class="youtube" target="_blank"></a></li>
                     <li><a href="https://www.linkedin.com/company/apdigitalasia/" class="linkedin" target="_blank"></a></li>
-                    <li></li>
-                    <li></li>
+                    <li><i class="fi-social-facebook large"></i></li>
+                    <li><i class="fi-social-youtube large"></i></li>
                     <li></li>
                 </ul>
             </div>
