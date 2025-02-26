@@ -737,6 +737,7 @@ Slider
   z-index: 15;
   position: relative;
   cursor: pointer;
+  line-height: 1rem;
 }
 
 .no-touch .cd-slider>li .cd-btn:hover {
