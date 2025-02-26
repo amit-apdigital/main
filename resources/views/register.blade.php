@@ -1,4 +1,5 @@
 @include('partials._header')
+<section>
 <article class="grid-container full white-bg">
     <div class="grid-container">
         <div class="grid-x grid-padding-x grid-padding-y">
@@ -75,5 +76,5 @@
         </div>
     </div>
 </article>
-
+</section>
 @include('partials._footer')
