@@ -1,13 +1,13 @@
 @include('partials._header')
 <section>
 
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Login') }}</div>
+<article class="grid-container full">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x grid-padding-y">
+            <div class="cell small-6-auto">
+                <div class="card-divider">{{ __('Login') }}</div>
 
-                <div class="card-body">
+                <div class="card-section">
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
 
@@ -25,7 +25,7 @@
                             </div>
                         </div>
 
-                        <div class="row mb-3">
+                        <div class="card-section">
                             <label for="password" class="col-md-4 col-form-label text-md-end">{{ __('Password') }}</label>
 
                             <div class="col-md-6">
@@ -39,7 +39,7 @@
                             </div>
                         </div>
 
-                        <div class="row mb-3">
+                        <div class="card-section">
                             <div class="col-md-6 offset-md-4">
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
@@ -51,7 +51,7 @@
                             </div>
                         </div>
 
-                        <div class="row mb-0">
+                        <div class="card-section">
                             <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="cd-btn btn-primary">
                                     {{ __('Login') }}
@@ -69,7 +69,7 @@
             </div>
         </div>
     </div>
-</div>
+</article>
 
 
 </section>
