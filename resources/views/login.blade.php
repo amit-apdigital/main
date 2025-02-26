@@ -1,7 +1,7 @@
 @include('partials._header')
 <section>
 
-<article class="grid-container full">
+<article class="grid-container full white-bg">
     <div class="grid-container">
         <div class="grid-x grid-padding-x grid-padding-y">
             <div class="cell small-6-auto">
@@ -51,7 +51,7 @@
                             </div>
                         </div>
 
-                        <div class="row mb-0">
+                        <div class="card-divider">
                             <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="cd-btn btn-primary">
                                     {{ __('Login') }}
@@ -66,6 +66,7 @@
                         </div>
                     </form>
                 </div>
+
             </div>
         </div>
     </div>
