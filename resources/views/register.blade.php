@@ -1,12 +1,13 @@
 @include('partials._header')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Register') }}</div>
+<article class="grid-container full white-bg">
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x grid-padding-y">
+            <div class="cell small-6-auto">
+                <form method="POST" action="{{ route('register') }}">
 
-                <div class="card-body">
-                    <form method="POST" action="{{ route('register') }}">
+                <div class="card-divider">{{ __('Register') }}</div>
+
+                <div class="card-section">
                         @csrf
 
                         <div class="row mb-3">
@@ -59,18 +60,20 @@
                             </div>
                         </div>
 
-                        <div class="row mb-0">
+                </div>
+                <div class="card-divider">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="cd-btn btn-primary">
                                     {{ __('Register') }}
                                 </button>
                             </div>
                         </div>
-                    </form>
-                </div>
+
+            </form>
+
             </div>
         </div>
     </div>
-</div>
+</article>
 
 @include('partials._footer')
