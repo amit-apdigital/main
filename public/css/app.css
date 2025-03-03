@@ -283,6 +283,10 @@ body.privacy-policy {
 
 /* footer */
 
+footer {
+  border-top: 1px solid #333;
+}
+
 footer  .social{
   background: #000;
 }
@@ -293,7 +297,7 @@ footer .content {
 
 footer .social svg {
   color: #fff;
-  width: 80px;
+  width: 40px;
 }
 
 footer .copyright {
