@@ -324,9 +324,8 @@ ul.social {
 .social a {
   font-size: 2rem;
   display: block;
-  height: 72px;
-  width: 72px;
-  background-image: url('/images/set-of-social-media-icons-editable-vector-free-png.webp');
+  height: 50px;
+  width: 50px;
 }
 
 .youtube {
