@@ -293,6 +293,7 @@ footer .content {
 
 footer .social svg {
   color: #fff;
+  width: 80px;
 }
 
 footer .copyright {
@@ -324,18 +325,8 @@ ul.social {
 .social a {
   font-size: 2rem;
   display: block;
-  height: 50px;
-  width: 50px;
 }
 
-.youtube {
-  background-position: 80px 273px;
-}
-
-.linkedin {
-  background-position: 730px 102px;
-
-}
 
 
 footer ul.menu,
