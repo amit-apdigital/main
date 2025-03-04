@@ -289,6 +289,10 @@ body.privacy-policy {
   opacity: 0.75;
   transition: 0.3s;
   cursor: pointer;
+  padding: 10px;
+  width: 70px;
+  margin: 20px auto;
+  bottom: 0;
 
 }
 
