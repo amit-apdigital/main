@@ -170,6 +170,10 @@
         }
     }
 
+    jQuery(window).scroll(function(){
+        scrollFunction();
+    });
+
 
     jQuery(document).ready(function() {
         scrollFunction();
