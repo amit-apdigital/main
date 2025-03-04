@@ -283,6 +283,10 @@ body.privacy-policy {
 
 /* footer */
 
+.scrollTo a {
+
+}
+
 footer {
   border-top: 1px solid #333;
 }
