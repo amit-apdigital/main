@@ -172,13 +172,7 @@
 
 
     jQuery(document).ready(function() {
-
-        jQuery(window).scroll(function() {
-            scrollFunction()
-        });
-
-
-
+        scrollFunction();
 
         jQuery(".scrollTo").on("click", function() {
             window.scrollTo({
@@ -186,8 +180,6 @@
                 behavior: 'smooth'
             });
         });
-
-
 
         // All Pages
         selector = "." + jQuery("#currentPage").val();

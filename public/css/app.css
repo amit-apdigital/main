@@ -293,7 +293,7 @@ body.privacy-policy {
   width: 70px;
   margin: 20px auto;
   bottom: 0;
-  left: 50;
+  left: 50%;
   position: fixed;
   z-index: 100;
 
