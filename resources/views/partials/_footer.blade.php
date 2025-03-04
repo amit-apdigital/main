@@ -166,8 +166,11 @@
         console.log(jQuery(window).scrollTop());
         if (jQuery(window).scrollTop() > 20) {
             jQuery(".scrollTo").css("opacity", "0.75");
+            jQuery(".scrollTo").css("bottom", "0");
         } else {
             jQuery(".scrollTo").css("opacity", "0");
+            jQuery(".scrollTo").css("bottom", "-80px");
+
         }
     }
 
