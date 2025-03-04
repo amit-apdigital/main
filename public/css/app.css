@@ -286,7 +286,6 @@ body.privacy-policy {
 .scrollTo  {
   display: block;
   background:#fff;
-  opacity: 0.75;
   transition: 0.5s;
   cursor: pointer;
   padding: 10px;
@@ -300,7 +299,7 @@ body.privacy-policy {
 }
 
 .scrollTo:hover{
-  opacity: 1;
+  opacity: 1!important;
 
 }
 
