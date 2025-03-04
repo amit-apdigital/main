@@ -163,6 +163,7 @@
     }
 
     function scrollFunction() {
+        console.log(jQuery(window).scrollTop);
         if (jQuery(window).scrollTop > 20) {
             jQuery(".scrollTo").css("opacity", "1");
         } else {
@@ -170,7 +171,7 @@
         }
     }
 
-    jQuery(window).scroll(function(){
+    jQuery(window).on( "scroll", function(){
         scrollFunction();
     });
 
