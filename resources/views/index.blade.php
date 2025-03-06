@@ -13,7 +13,7 @@
         <div class="grid-container">
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6">
-                    <a data-link="/portfolio" id="consultancy" class="consult changePage"><img src="/images/consultancy.png" title="Consultancy" /></a>
+                    <a data-link="/portfolio" id="consultancy" class="consult changePage"><img src="/images/consultancy-1.png" title="Consultancy" /></a>
                     <h2 style="position: relative;top: -120px;background: rgba(255, 255, 255, 0.25);display: inline;padding: 1rem;">LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
                 </div>
                 <div class="cell small-6">
