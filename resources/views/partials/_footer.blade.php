@@ -164,8 +164,7 @@
         cssClassName = '.' + panelName;
         jQuery(cssClassName).parent().removeAttr('style');
         jQuery(cssClassName).animate({
-            width: "-=50vw",
-            opacity: 0
+            width: "-=50vw"
         }, 750, function() {
             jQuery("#preloader").addClass("sendToBack");
         });
@@ -176,8 +175,7 @@
         jQuery("#preloader").removeClass("sendToBack");
         jQuery(cssClassName).parent().removeAttr('style');
         jQuery(cssClassName).animate({
-            width: "+=50vw",
-            opacity: 1
+            width: "+=50vw"
         }, 750, function() {
             window.location.href = url; //relative to domain
         });
