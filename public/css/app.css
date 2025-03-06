@@ -127,10 +127,12 @@ nav#main-navigation,
 
 
 .headlineText {
-  
+  background: #06111b;
+
 }
 
 .headlineText p {
+  color: #fff;
 
 }
 
