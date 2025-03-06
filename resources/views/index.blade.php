@@ -15,7 +15,7 @@
                 <div class="cell small-6">
                     <a data-link="/portfolio" id="consultancy" class="consult changePage"><img src="/images/consultancy-1.png" title="Consultancy" /></a>
                 </div>
-                <div class="cell small-6">
+                <div class="cell small-6 vertically-centred">
                     <p>Improve business performance,reduce overheads and increasing that all important profit margin.</p>
                     <p>Affordable solutions for your business whether its its early stages or already established. </p>
                 </div>
