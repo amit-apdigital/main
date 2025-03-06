@@ -25,7 +25,7 @@
     <article class="development grid-container full">
         <div class="grid-container">
             <div class="grid-x grid-padding-x">
-                <div class="cell small-6">
+                <div class="cell small-6 vertically-centred">
                     <a id="development"></a>
                     <h2>TIGHT BUDGET? NO WORRIES!</h2>
                     <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
