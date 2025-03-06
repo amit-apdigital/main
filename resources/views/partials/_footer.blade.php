@@ -164,14 +164,14 @@
             width: "-=50vw",
             opacity: 0
         }, 750, function() {
-            jQuery(cssClassName).parent().css("z-index", "-10");
+            jQuery("#preloader").addClass("sendToBack");
         });
 
     }
 
     function closeScreen(panelName) {
         cssClassName = '.' + panelName;
-        jQuery(cssClassName).parent().css("z-index", "100"); 
+        jQuery("#preloader").removeClass("sendToBack");
         jQuery(cssClassName).parent().removeAttr('style');
         jQuery(cssClassName).animate({
             width: "+=50vw",
