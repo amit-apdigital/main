@@ -1039,6 +1039,13 @@ svg cover layer
   z-index: 100;
 }
 
+#preloader.sendToBack {
+  height: 0!important;
+  display: none !important;
+  position: relative;
+  width: 0 !important;
+}
+
 .panel {
   background: rgba(0, 0, 0, 1.0);
   width: 50vw;

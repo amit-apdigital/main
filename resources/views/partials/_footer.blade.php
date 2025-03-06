@@ -166,7 +166,6 @@
         }, 750, function() {
             jQuery("#preloader").addClass("sendToBack");
         });
-
     }
 
     function closeScreen(panelName) {
