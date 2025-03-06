@@ -211,8 +211,8 @@
 
         // All Pages
         selector = "." + jQuery("#currentPage").val();
-        openScreen("panel-1");
-        openScreen("panel-2");
+//        openScreen("panel-1");
+//        openScreen("panel-2");
         jQuery(selector).addClass("selected");
 
         jQuery(".changePage ").on("click", function() {
