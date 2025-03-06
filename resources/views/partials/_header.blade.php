@@ -87,7 +87,8 @@
                         </ul>
                     </nav>
                 </div>
-                <div class="cell auto"><a class="logo changePage" data-link="/">
+                <div class="cell auto">
+                    <a class="logo changePage" data-link="/">
                         <svg width="60px" height="60px" viewBox="0 0 100 85" version="1.1" id="svg1" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
                             <defs id="defs1" />
                             <g
@@ -112,8 +113,8 @@
                                     id="path1-9-4" />
                             </g>
                         </svg>
-
-                    </a></div>
+                    </a>
+                </div>
                 <div class="cell auto">
                     <ul class="dropdown vertical medium-horizontal menu right" data-dropdown-menu>
                         @include('partials._navigation_right')
