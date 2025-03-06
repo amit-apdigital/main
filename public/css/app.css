@@ -1055,8 +1055,10 @@ svg cover layer
 
 }
 .panel .svgGraphic
-{
-  
+{ 
+  margin: 10vh auto;
+  width: 45vw;
+  height: 90vh;
 }
 .panel-1 {
   left: 0;
