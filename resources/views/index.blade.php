@@ -1,16 +1,19 @@
 @include('partials._header')
 <section>
 
-    @include('partials._hero_slider_home')
 
-    <article class="consultancy grid-container full ">
-        <div class="grid-container headlineText">
-        <div class="grid-x grid-padding-x grid-padding-y">
-  
+    @include('partials._hero_slider_home')
+    <article class="headlineText grid-container full ">
+        <div class="grid-container ">
+
+            <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6">
                     <p>Custom IT business solutions</p>
                 </div>
             </div>
+    </article>
+    <article class="consultancy grid-container full ">
+        <div class="grid-container">
 
             <div class="grid-x grid-padding-x grid-padding-y">
                 <div class="cell small-6">
@@ -18,7 +21,7 @@
                     <h2 style="position: relative;top: -120px;background: rgba(255, 255, 255, 0.25);display: inline;padding: 1rem;">LETS STEP UP YOUR BUSINESS IT SOLUTIONS</h2>
                 </div>
                 <div class="cell small-6">
-                    <p>Improve business performance, reduce overheads and increase that all important profit margin.</p>
+                    <p>We can design, develop, and implement end to end custom IT business solutions to improve business performance and reduce overheads, increasing that all important profit margin.</p>
                     <p>We offer affordable, straightforward solutions for your business whether its its early stages or already well established. </p>
                 </div>
             </div>
