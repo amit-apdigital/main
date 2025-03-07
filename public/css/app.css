@@ -425,7 +425,7 @@ footer .links {
 }
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-caption {
     position: absolute;
     top: 50%;
@@ -448,7 +448,7 @@ screen and (min-width: 40em) {
   }
 }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 64em) {
   li.logo {
     margin: o auto;
   }
@@ -478,7 +478,7 @@ screen and (min-width: 40em) {
 }
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-caption p {
     font-size: 2.3rem;
     font-weight: bold;
@@ -498,7 +498,7 @@ screen and (min-width: 40em) {
 
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-caption h3 {
     font-size: 2.5rem;
     font-weight: bold;
@@ -511,7 +511,7 @@ screen and (min-width: 40em) {
 }
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-slide {
     padding-bottom: 0;
   }
@@ -528,7 +528,7 @@ screen and (min-width: 40em) {
 }
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-controls .orbit-previous {
     left: auto;
     right: 2.4rem;
@@ -536,7 +536,7 @@ screen and (min-width: 40em) {
 }
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-controls .orbit-next {
     right: 0.5rem;
   }
@@ -547,7 +547,7 @@ screen and (min-width: 40em) {
 }
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
   .clean-hero-slider .orbit-bullets {
     display: block;
     margin-bottom: 3rem;
@@ -1128,7 +1128,7 @@ svg cover layer
 /* Filters */
 
 @media print,
-screen and (min-width: 40em) {
+screen and (min-width: 64em) {
 
   .directory .leftColumn {
     width: 12vw;
