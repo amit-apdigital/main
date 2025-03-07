@@ -18,6 +18,7 @@
                 <div class="cell small-6 vertically-centred">
                     <p>Improve business performance,reduce overheads and increasing that all important profit margin.</p>
                     <p>Affordable solutions for your business whether its its early stages or already established. </p>
+                    <p><a href="#consultancy" class="cd-btn consult">Learn more</a></p>
                 </div>
             </div>
         </div>
@@ -30,6 +31,7 @@
                     <h2>TIGHT BUDGET? NO WORRIES!</h2>
                     <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
                     <p>We can work together with you and take your business software needs to new heights.</p>
+                    <p><a href="#development" class="cd-btn devapp">Learn more</a></p>
                 </div>
                 <div class="cell small-6">
                     <a data-link="/portfolio" class="devapp changePage"><img src="/images/development.jpg" title="Development" /></a>
