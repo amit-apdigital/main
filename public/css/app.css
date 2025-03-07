@@ -120,9 +120,6 @@ nav#main-navigation,
     min-width: 33%;
     text-align: center;
   }
-
-
-
 }
 
 
@@ -135,6 +132,8 @@ nav#main-navigation,
   color: #fff;
   white-space: nowrap;
   font-size: 8.25vw;
+  font-weight: bold;
+  margin: 0;
 }
 
 
@@ -260,11 +259,11 @@ footer a {
 /* body */
 
 article.consultancy {
-  background:  #46b0b0;
-  color:#06111b;
+  background: #46b0b0;
+  color: #06111b;
 }
-.vertically-centred
-{
+
+.vertically-centred {
   margin: auto;
 }
 
@@ -295,9 +294,9 @@ body.privacy-policy {
 
 /* footer */
 
-.scrollTo  {
+.scrollTo {
   display: block;
-  background:#fff;
+  background: #fff;
   transition: 0.5s;
   cursor: pointer;
   padding: 10px 20px;
@@ -309,8 +308,8 @@ body.privacy-policy {
 
 }
 
-.scrollTo:hover{
-  opacity: 1!important;
+.scrollTo:hover {
+  opacity: 1 !important;
 
 }
 
@@ -318,7 +317,7 @@ footer {
   border-top: 1px solid #333;
 }
 
-footer  .social{
+footer .social {
   background: #000;
 }
 
@@ -377,8 +376,9 @@ footer .copyright li {
 }
 
 footer .links {
-  border-top: 1px solid #06111b ;
+  border-top: 1px solid #06111b;
 }
+
 /* content */
 
 .hide-text {
@@ -745,7 +745,7 @@ Slider
   position: relative;
 }
 
- .cd-btn {
+.cd-btn {
   display: inline-block;
   padding: 1.2em 1.4em;
   margin-top: .8em;
@@ -1041,7 +1041,7 @@ svg cover layer
 }
 
 #preloader.sendToBack {
-  height: 0!important;
+  height: 0 !important;
   display: none !important;
   position: relative;
   width: 0 !important;
@@ -1055,12 +1055,13 @@ svg cover layer
   z-index: 99;
 
 }
-.panel .svgGraphic
-{ 
+
+.panel .svgGraphic {
 
   width: 49vw;
   height: 99vh;
 }
+
 .panel-1 {
   left: 0;
 }
@@ -1219,7 +1220,7 @@ screen and (min-width: 40em) {
   border: 1px solid #e6e6e6;
   padding: 1rem;
   margin: 1.5rem;
-  
+
 }
 
 .ecommerce-product-slider .product-card-thumbnail {
@@ -1273,6 +1274,7 @@ screen and (min-width: 40em) {
 .orbit-next {
   right: -15px;
 }
+
 .orbit-previous {
   left: -15px;
 }
