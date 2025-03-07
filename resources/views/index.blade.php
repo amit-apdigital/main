@@ -28,7 +28,6 @@
             <div class="grid-x grid-padding-x">
                 <div class="cell small-6 vertically-centred">
                     <a id="development"></a>
-                    <h2>TIGHT BUDGET? NO WORRIES!</h2>
                     <p>Why pay expensive ongoing monthly fees for software features you dont need?</p>
                     <p>We can work together with you and take your business software needs to new heights.</p>
                     <p><a href="#development" class="cd-btn devapp">Learn more</a></p>
